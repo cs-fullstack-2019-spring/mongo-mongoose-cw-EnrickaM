@@ -1,3 +1,6 @@
+## POINTS: 0
+## KEY: No submission in GitHub.
+
 # Mongo/Mongoose Graded Classwork
 
 ### Exercise 1: Create a Web API for ZOO Animals
